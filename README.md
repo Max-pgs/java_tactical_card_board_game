@@ -59,7 +59,8 @@ The repository retains the original commit and merge history from the project.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Max-pgs/my-project.git
+git clone https://github.com/Max-pgs/java_tactical_card_board_game
+
 ```
 
 Open the project in IntelliJ IDEA or another compatible Java IDE, build the project and run the main application.
